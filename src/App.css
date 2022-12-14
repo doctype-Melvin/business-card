@@ -8,6 +8,6 @@ html, body {
   height: 100vh;
 }
 
-.pic {
-  width: 300px;
+.pic, html, body {
+  width: 350px;
 }
