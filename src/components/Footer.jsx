@@ -1,10 +1,10 @@
 import React from "react";
-import github from '../assets/github-logo.png'
+import github from '../assets/github.png'
 
 function Footer(){
     return (
         <div className="footer">
-            <a href="https://www.github.com/doctype-Melvin">
+            <a target='_blank' href="https://www.github.com/doctype-Melvin">
                 <img className="git" src={github}>
                 </img>
             </a>
